@@ -10,4 +10,4 @@ Generic example for a SaaS with invite / referral system.
 
 ![Database diagram](https://raw.githubusercontent.com/prisma/prisma-schema-examples/main/saas/diagram.png)
 
-(Generated via https://github.com/notiz-dev/prisma-dbml-generator + https://dbdiagram.io)
+(Database diagram Generated via https://github.com/notiz-dev/prisma-dbml-generator + https://dbdiagram.io)
